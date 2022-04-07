@@ -1,6 +1,6 @@
-# HCPrest_intellegence
+# HCPrest_intelligence
 
-learn.ipynb presents a machine learning model that predicts intellegence from patterns of brain connectivity, as measured by resting state fMRI.
+learn.ipynb presents a machine learning model that predicts intelligence from patterns of brain connectivity, as measured by resting state fMRI.
 
 The steps to run the analysis yourself are:
 
